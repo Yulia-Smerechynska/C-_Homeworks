@@ -1,0 +1,6 @@
+C:\Users\Yulia\source\repos\AuthAccounts\AuthAccounts\bin\Debug\AuthAccounts.exe.config
+C:\Users\Yulia\source\repos\AuthAccounts\AuthAccounts\bin\Debug\AuthAccounts.exe
+C:\Users\Yulia\source\repos\AuthAccounts\AuthAccounts\bin\Debug\AuthAccounts.pdb
+C:\Users\Yulia\source\repos\AuthAccounts\AuthAccounts\obj\Debug\AuthAccounts.csprojAssemblyReference.cache
+C:\Users\Yulia\source\repos\AuthAccounts\AuthAccounts\obj\Debug\AuthAccounts.exe
+C:\Users\Yulia\source\repos\AuthAccounts\AuthAccounts\obj\Debug\AuthAccounts.pdb
